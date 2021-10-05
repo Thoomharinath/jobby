@@ -1,0 +1,21 @@
+.Home-page {
+  display: flex;
+  flex-direction: column;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Roboto';
+}
+.home-content {
+  height: 400px;
+  width: 350px;
+  color: white;
+  margin: 35px;
+}
+.para {
+  color: #cbd5e1;
+  font-size: 20px;
+}
+.head {
+  font-size: 40px;
+}

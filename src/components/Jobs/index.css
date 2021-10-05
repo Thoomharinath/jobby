@@ -1,0 +1,75 @@
+.profile {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  border-radius: 8px;
+  margin: 10px;
+  margin-left: 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  font-family: 'Roboto';
+  justify-content: center;
+  width: 300px;
+}
+.un-order {
+  padding-left: 0px;
+}
+.job-cont {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #121212;
+}
+.person-name {
+  color: #6366f1;
+  font-size: 25px;
+  font-weight: bold;
+}
+.filter-page {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.line {
+  color: white;
+  width: 300px;
+  margin-left: 0px;
+}
+.job-page {
+  display: flex;
+  background-color: #121212;
+  width: 90%;
+  min-height: 100vh;
+  align-self: center;
+}
+.search {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 50px;
+}
+.search-input {
+  width: 400px;
+  height: 25px;
+  background-color: transparent;
+  border-color: #2c364c;
+  outline-width: 0px;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-width: 1px;
+  color: white;
+  border-style: solid;
+}
+.search-but {
+  background-color: #2c364c;
+  color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #2c364c;
+  height: 25px;
+  width: 30px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
